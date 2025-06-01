@@ -1,0 +1,12 @@
+Bima Setia,243155001,24B,Ngawi,Pria
+Muhammad Zaidan,243155002,24B,Bekasi,Pria
+Horasio Nissi,243155003,24A,Bogor,Pria
+Sholikin,243155004,24C,Pacitan,Pria
+Geralldo Agatha,243155005,24B,Ngawi,Pria
+Rasya Al-Khalifi,243155006,24C,Jombang,Pria
+Lintang Isa,243155007,24A,Krian,Pria
+Ivan Cahya,243155008,24B,Bendul,Pria
+Putra Yuda,243155009,24C,Bandung,Pria
+Khoirul Ilham,243155010,24A,Surabaya,Pria
+Arief Firman,243155011,24C,Surabaya,Pria
+Stephanie,243155012,24A,Malang,Wanita
